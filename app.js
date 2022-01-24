@@ -23,14 +23,3 @@ axios.get('https://api.tvmaze.com/search/shows?q=boys')
   });
 
 
-
-
-
-
-
-
-
-// .then((response)=>{
-//     const lastData = response.data;
-//         return lastData;
-//     });
