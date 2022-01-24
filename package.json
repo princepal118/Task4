@@ -1,0 +1,25 @@
+{
+  "name": "task4-date-24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "async": "^0.2.10",
+    "axios": "^0.25.0",
+    "follow-redirects": "^1.14.7",
+    "optimist": "^0.3.7",
+    "require": "^2.4.20",
+    "source-map": "^0.1.43",
+    "std": "^0.1.40",
+    "wordwrap": "^0.0.3",
+    "uglify-js": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
